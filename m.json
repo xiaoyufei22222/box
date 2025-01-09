@@ -5,6 +5,8 @@
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+     {"key": "csp_xiaoyu","name": "🌕┃IPTV┃直播","type": 0,"url": "https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/refs/heads/master/output/user_result.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
      {"key": "csp_KungFu404","name": "🔥┃设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
     {"key": "APP商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./libs/market.json","jar": "./libs/jar/app.jar"},
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./libs/tv/zb.json"},
